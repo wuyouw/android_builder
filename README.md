@@ -5,3 +5,5 @@
 [《更新慢、弃坑了？实现 Android 应用自给自足：GitHub Actions 编译实例》](https://sspai.com/post/70427)
 
 如果这篇文章帮到了你，不妨回来点个赞。
+
+本项目只能打包DEbug版，需要打包正式版，需要在正式项目下的Actions下打包
